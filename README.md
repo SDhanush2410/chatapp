@@ -1,0 +1,1 @@
+This project is a real-time Chat Application that allows users to communicate with each other instantly. It is built using modern web technologies to provide a seamless and interactive chatting experience
